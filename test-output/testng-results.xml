@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-07T11:15:03 IST" name="Suite" finished-at="2026-09-07T11:16:19 IST" duration-ms="76364">
+    <groups>
+    </groups>
+    <test started-at="2026-09-07T11:15:03 IST" name="Test on chrome" finished-at="2026-09-07T11:16:19 IST" duration-ms="76364">
+      <class name="org.eva.application.testscripts.VerifyLeadTestScript">
+        <test-method is-config="true" signature="beforeSuit()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:02 IST" name="beforeSuit" finished-at="2026-09-07T11:15:03 IST" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuit -->
+        <test-method is-config="true" signature="beforeTestCase(java.lang.String,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:03 IST" name="beforeTestCase" finished-at="2026-09-07T11:15:16 IST" duration-ms="13511" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt001VerifyCreateLead()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="vt001VerifyCreateLead()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:16 IST" name="vt001VerifyCreateLead" finished-at="2026-09-07T11:15:39 IST" duration-ms="23024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vt001VerifyCreateLead -->
+        <test-method is-config="true" signature="afterTestCase(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:39 IST" name="afterTestCase" finished-at="2026-09-07T11:15:40 IST" duration-ms="666" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=vt001VerifyCreateLead status=SUCCESS method=VerifyLeadTestScript.vt001VerifyCreateLead()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt001VerifyCreateLead()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase(java.lang.String,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:40 IST" name="beforeTestCase" finished-at="2026-09-07T11:15:41 IST" duration-ms="1066" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt002VerifyLeadCreationMandatory()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="vt002VerifyLeadCreationMandatory()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:15:41 IST" name="vt002VerifyLeadCreationMandatory" finished-at="2026-09-07T11:16:00 IST" duration-ms="19488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vt002VerifyLeadCreationMandatory -->
+        <test-method is-config="true" signature="afterTestCase(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:16:00 IST" name="afterTestCase" finished-at="2026-09-07T11:16:01 IST" duration-ms="373" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=vt002VerifyLeadCreationMandatory status=SUCCESS method=VerifyLeadTestScript.vt002VerifyLeadCreationMandatory()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt002VerifyLeadCreationMandatory()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+        <test-method is-config="true" signature="beforeTestCase(java.lang.String,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:16:01 IST" name="beforeTestCase" finished-at="2026-09-07T11:16:02 IST" duration-ms="1025" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt003VerifyLeadCreationInvalidData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTestCase -->
+        <test-method signature="vt003VerifyLeadCreationInvalidData()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:16:02 IST" name="vt003VerifyLeadCreationInvalidData" finished-at="2026-09-07T11:16:19 IST" duration-ms="16763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- vt003VerifyLeadCreationInvalidData -->
+        <test-method is-config="true" signature="afterTestCase(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70]" started-at="2026-09-07T11:16:19 IST" name="afterTestCase" finished-at="2026-09-07T11:16:19 IST" duration-ms="353" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=vt003VerifyLeadCreationInvalidData status=SUCCESS method=VerifyLeadTestScript.vt003VerifyLeadCreationInvalidData()[pri:0, instance:org.eva.application.testscripts.VerifyLeadTestScript@7dc19a70] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void org.eva.application.testscripts.VerifyLeadTestScript.vt003VerifyLeadCreationInvalidData()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTestCase -->
+      </class> <!-- org.eva.application.testscripts.VerifyLeadTestScript -->
+    </test> <!-- Test on chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

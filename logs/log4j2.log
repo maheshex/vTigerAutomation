@@ -1,0 +1,559 @@
+[INFO ] 2025-11-24 20:37:12.644 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 20:37:12.664 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 20:37:24.088 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 20:37:24.108 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 20:40:47.816 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 20:40:47.870 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 20:40:50.230 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 20:40:50.267 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 21:03:51.305 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-24 21:03:52.608 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 21:03:52.629 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 21:03:55.321 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 21:03:55.349 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 21:09:50.383 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-24 21:09:51.746 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 21:09:51.789 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 21:09:54.590 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 21:09:54.630 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 21:09:59.033 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-24 21:09:59.055 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-24 21:10:13.370 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-24 21:10:13.393 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-24 21:10:27.282 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-24 21:10:28.520 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 21:10:28.536 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 21:10:31.123 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 21:10:31.146 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 21:10:35.247 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-24 21:10:35.273 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-24 21:10:37.653 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-24 21:10:37.669 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-24 21:10:41.260 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-24 21:10:42.460 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 21:10:42.474 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 21:10:44.719 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 21:10:44.743 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-24 21:10:49.373 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-24 21:10:49.394 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-24 21:10:52.155 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-24 21:10:52.171 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-24 21:10:53.301 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-24 21:10:54.524 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-24 21:10:54.542 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-24 21:10:56.998 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-24 21:10:57.034 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:22:14.019 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-25 21:22:23.022 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:22:23.042 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:22:35.352 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:22:35.373 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:22:47.855 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:22:47.875 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:23:02.824 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:23:02.845 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:23:23.398 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-25 21:23:24.583 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:23:24.599 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:23:27.217 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:23:27.257 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:23:31.428 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:23:31.450 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:23:35.303 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:23:35.319 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:28:02.227 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-25 21:28:10.257 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:28:10.281 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:28:21.168 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:28:21.180 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:28:33.963 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:28:33.986 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:28:48.642 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:28:48.670 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:30:26.981 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-25 21:30:28.138 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:30:28.158 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:30:30.607 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:30:30.628 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:30:34.974 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:30:34.991 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:30:37.620 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:30:37.634 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:31:45.320 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-25 21:31:46.484 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:31:46.506 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:31:48.809 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:31:48.829 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:31:53.049 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:31:53.068 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:31:56.844 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:31:56.860 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:32:05.645 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-25 21:32:06.886 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:32:06.902 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:32:09.315 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:32:09.336 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:32:13.589 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:32:13.600 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:32:16.370 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:32:16.388 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-25 21:33:13.570 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-25 21:33:13.651 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-25 21:33:15.040 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:33:15.057 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:33:15.126 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-25 21:33:15.160 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-25 21:33:19.855 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:33:19.887 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-25 21:33:19.984 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:33:20.011 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-25 21:33:25.566 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-25 21:33:25.594 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-25 21:33:28.307 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-25 21:33:28.323 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:23:02.722 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-27 18:23:09.190 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:23:09.210 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:23:19.942 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:23:19.962 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:23:31.593 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:23:31.614 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:23:46.019 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:23:46.045 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:23:59.013 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-27 18:24:00.193 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:24:00.208 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:24:02.602 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:24:02.628 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:24:06.918 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:24:06.936 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:24:09.224 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:24:09.243 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:24:12.680 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-27 18:24:13.905 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:24:13.922 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:24:16.207 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:24:16.228 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:24:20.503 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:24:20.521 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:24:23.110 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:24:23.126 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:24:24.220 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-27 18:24:25.324 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:24:25.340 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:24:27.545 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:24:27.569 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:25:45.779 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-27 18:25:47.146 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:25:47.164 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:25:49.393 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:25:49.412 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:25:54.031 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:25:54.050 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:25:57.908 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:25:57.924 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:26:01.999 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-27 18:26:03.194 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:26:03.211 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:26:05.611 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:26:05.632 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:26:10.378 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:26:10.396 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:26:12.953 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:26:12.970 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:26:16.740 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-27 18:26:17.837 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:26:17.855 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:26:20.159 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:26:20.178 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:26:24.312 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:26:24.330 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:26:27.057 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:26:27.075 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:26:28.199 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-27 18:26:29.288 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:26:29.306 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:26:31.665 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:26:31.685 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:32:01.560 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-27 18:32:02.924 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:32:02.950 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:32:05.387 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:32:05.411 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:32:09.549 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:32:09.569 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:32:13.444 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:32:13.465 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:32:17.649 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-27 18:32:18.860 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:32:18.880 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:32:21.115 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:32:21.131 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:32:25.668 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:32:25.689 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:32:28.123 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:32:28.140 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:32:32.208 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-27 18:32:33.386 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:32:33.401 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:32:35.881 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:32:35.900 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:32:40.399 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:32:40.418 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:32:43.066 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:32:43.079 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:32:44.121 [main] VerifyLeadTestScript - vt004VerifyDeleteLead testcase started
+[INFO ] 2025-11-27 18:32:45.255 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:32:45.269 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:32:47.501 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:32:47.520 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:34:40.285 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-27 18:34:42.113 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:34:42.135 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:34:51.864 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:34:51.889 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:35:04.859 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:35:04.880 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:35:19.260 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:35:19.277 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:35:32.550 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-27 18:35:33.618 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:35:33.626 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:35:36.046 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:35:36.065 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:35:40.487 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:35:40.517 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:35:42.856 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:35:42.871 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-27 18:35:46.552 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-27 18:35:47.746 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-27 18:35:47.761 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-27 18:35:50.381 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-27 18:35:50.403 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-27 18:35:55.085 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-27 18:35:55.103 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-27 18:35:57.884 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-27 18:35:57.895 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-28 21:08:02.299 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2025-11-28 21:08:03.971 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-28 21:08:03.989 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-28 21:08:10.430 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-28 21:08:10.457 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-28 21:08:18.008 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-28 21:08:18.027 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-28 21:08:32.369 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-28 21:08:32.386 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-28 21:08:45.804 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2025-11-28 21:08:47.001 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-28 21:08:47.021 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-28 21:08:49.415 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-28 21:08:49.434 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-28 21:08:54.877 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-28 21:08:54.905 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-28 21:08:57.494 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-28 21:08:57.528 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2025-11-28 21:09:01.083 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2025-11-28 21:09:02.278 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2025-11-28 21:09:02.298 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2025-11-28 21:09:04.762 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2025-11-28 21:09:04.785 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2025-11-28 21:09:09.210 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2025-11-28 21:09:09.234 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2025-11-28 21:09:12.173 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2025-11-28 21:09:12.193 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-01-11 19:23:38.454 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-11 19:23:46.447 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-11 19:23:46.470 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-11 19:23:57.881 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-01-11 19:23:57.903 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-01-11 19:24:10.717 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-01-11 19:24:10.741 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-01-11 19:24:25.595 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-01-11 19:24:25.614 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-01-11 19:24:40.898 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-01-11 19:24:42.253 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-11 19:24:42.266 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-11 19:24:45.504 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-01-11 19:24:45.524 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-01-11 19:24:48.491 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-01-11 19:24:48.505 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-01-11 19:24:50.784 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-01-11 19:24:50.801 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-01-11 19:24:54.125 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-01-11 19:24:55.246 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-11 19:24:55.261 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-11 19:24:59.154 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-01-11 19:24:59.181 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-01-11 19:25:01.577 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-01-11 19:25:01.595 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-01-11 19:25:04.088 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-01-11 19:25:04.103 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-01-16 20:08:09.401 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:08:14.208 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:08:14.245 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:08:37.350 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:08:38.680 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-16 20:08:38.698 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-16 20:08:41.584 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:08:41.605 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:16:28.962 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:16:30.206 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-16 20:16:30.219 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-16 20:16:33.276 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-16 20:16:33.299 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-18 18:51:16.092 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-18 18:51:24.008 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-01-18 18:51:24.030 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-01-18 18:51:28.368 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-01-18 18:51:28.389 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-17 13:33:14.025 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-17 13:33:23.425 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-17 13:33:23.443 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-17 13:33:35.037 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-17 13:33:35.075 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-17 13:33:49.196 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-17 13:33:49.239 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-17 13:34:07.255 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-17 13:34:07.286 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-17 13:34:25.667 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-17 13:34:27.173 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-17 13:34:27.188 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-17 13:34:29.712 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-17 13:34:29.746 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-17 13:34:35.104 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-17 13:34:35.135 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-17 13:34:38.482 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-17 13:34:38.504 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-17 13:34:42.167 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-02-17 13:34:43.220 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-17 13:34:43.255 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-17 13:34:45.857 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-17 13:34:45.883 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-17 13:34:50.448 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-17 13:34:50.465 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-17 13:34:53.422 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-17 13:34:53.454 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-20 12:55:11.681 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-20 12:55:12.958 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-20 12:55:12.978 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-20 12:55:15.292 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-20 12:55:15.347 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-20 12:55:19.997 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-20 12:55:20.031 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-20 12:55:24.340 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-20 12:55:24.362 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-20 12:55:28.284 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-20 12:55:29.589 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-20 12:55:29.605 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-20 12:55:31.769 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-20 12:55:31.797 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-20 12:55:36.232 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-20 12:55:36.252 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-20 12:55:38.940 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-20 12:55:38.957 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-20 12:55:42.870 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-02-20 12:55:44.118 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-20 12:55:44.135 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-20 12:55:46.415 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-20 12:55:46.461 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-20 12:55:50.780 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-20 12:55:50.800 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-20 12:55:53.831 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-20 12:55:53.848 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-23 20:47:36.694 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-23 20:47:37.936 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-23 20:47:37.954 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-23 20:47:40.178 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-23 20:47:40.201 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-23 20:47:44.752 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-23 20:47:44.772 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-23 20:47:59.845 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-23 20:47:59.861 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-23 20:48:11.801 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-23 20:48:11.825 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-23 20:48:45.020 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-23 20:48:46.356 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-23 20:48:46.370 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-23 20:48:48.853 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-23 20:48:48.879 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-23 20:48:53.168 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-23 20:48:53.190 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-23 20:48:56.908 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-23 20:48:56.924 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-23 20:49:01.167 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-23 20:49:02.260 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-23 20:49:02.288 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-23 20:49:04.564 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-23 20:49:04.585 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-23 20:49:08.905 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-23 20:49:08.924 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-23 20:49:11.304 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-23 20:49:11.337 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-23 20:49:15.037 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-02-23 20:49:16.282 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-23 20:49:16.295 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-23 20:49:18.830 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-23 20:49:18.849 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-23 20:49:23.477 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-23 20:49:23.496 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-23 20:49:26.025 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-23 20:49:26.045 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-24 12:51:49.844 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-24 12:51:51.247 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 12:51:51.265 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 12:51:53.741 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-24 12:51:53.774 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-24 12:51:58.343 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-24 12:51:58.361 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-24 12:52:02.475 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-24 12:52:02.493 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-24 12:52:06.324 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-24 12:52:07.513 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 12:52:07.531 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 12:52:09.844 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-24 12:52:09.864 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-24 12:52:13.989 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-24 12:52:14.008 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-24 12:52:16.438 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-24 12:52:16.457 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-24 12:52:17.554 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-02-24 12:52:18.686 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 12:52:18.703 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 13:26:37.585 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-24 13:26:38.870 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 13:26:38.890 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 13:26:41.224 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-24 13:26:41.247 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-24 13:26:45.752 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-24 13:26:45.773 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-24 13:26:50.190 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-24 13:26:50.208 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-24 13:26:50.365 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-24 13:26:50.385 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-24 13:28:31.053 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-24 13:28:32.422 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 13:28:32.446 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 13:28:34.870 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-24 13:28:34.893 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-24 13:28:39.172 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-24 13:28:39.192 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-24 13:28:43.346 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-24 13:28:43.364 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-24 13:28:47.250 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-24 13:28:48.551 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-24 13:28:48.567 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-24 13:28:50.860 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-24 13:28:50.882 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-24 13:28:54.881 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-24 13:28:54.901 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-24 13:28:57.524 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-24 13:28:57.543 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-26 21:13:51.652 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-26 21:14:03.077 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-26 21:14:03.118 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-26 21:14:20.223 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-26 21:14:20.245 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-26 21:14:27.601 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-26 21:14:27.625 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-26 21:14:42.462 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-26 21:14:42.481 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-26 21:14:56.092 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-26 21:14:57.166 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-26 21:14:57.181 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-26 21:14:59.128 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-26 21:14:59.154 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-26 21:15:04.314 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-26 21:15:04.357 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-26 21:15:07.005 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-26 21:15:07.065 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-26 21:15:31.222 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-02-26 21:15:39.635 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-26 21:15:39.653 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-26 21:15:45.901 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-26 21:15:45.920 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-26 21:15:58.667 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-26 21:15:58.688 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-26 21:16:11.108 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-26 21:16:11.130 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-26 21:20:14.082 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-02-26 21:20:15.567 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-26 21:20:15.585 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-26 21:20:18.422 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-26 21:20:18.459 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-02-26 21:20:24.010 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-02-26 21:20:24.036 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-02-26 21:20:28.816 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-02-26 21:20:28.833 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-02-26 21:20:39.721 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-02-26 21:20:41.156 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-02-26 21:20:41.170 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-02-26 21:20:44.138 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-02-26 21:20:44.180 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-06 12:47:40.862 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-06 12:47:46.256 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-03-06 12:47:46.272 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-03-06 12:47:53.529 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-03-06 12:47:53.558 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-06 12:48:01.826 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-03-06 12:48:01.847 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-03-06 12:48:11.925 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-03-06 12:48:11.939 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-03-06 12:48:21.033 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-03-06 12:48:22.358 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-03-06 12:48:22.378 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-03-06 12:48:25.687 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-03-06 12:48:25.706 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-06 12:48:27.660 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-03-06 12:48:27.682 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-03-06 12:48:29.775 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-03-06 12:48:29.792 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-03-06 12:48:32.755 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-03-06 12:48:33.988 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-03-06 12:48:34.009 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-03-06 12:48:35.782 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-03-06 12:48:35.806 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-06 12:48:39.689 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-03-06 12:48:39.706 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-03-06 12:48:42.127 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-03-06 12:48:42.145 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-03-07 18:34:12.293 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-07 18:34:20.272 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-03-07 18:34:20.291 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-03-07 18:34:30.920 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-03-07 18:34:30.965 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-07 18:34:34.647 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-07 18:34:34.672 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-07 18:36:51.759 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-07 18:36:53.047 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-03-07 18:36:53.064 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-03-07 18:36:55.251 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-03-07 18:36:55.278 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-03-07 18:36:58.266 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-03-07 18:36:58.287 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-05-04 13:36:48.934 [main] VerifyLeadTestScript - vt001VerifyCreateLead testcase started
+[INFO ] 2026-05-04 13:37:00.150 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-05-04 13:37:00.189 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-05-04 13:37:14.587 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-05-04 13:37:14.620 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-05-04 13:37:31.708 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-05-04 13:37:31.749 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-05-04 13:37:51.401 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-05-04 13:37:51.433 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-05-04 13:38:07.717 [main] VerifyLeadTestScript - vt002VerifyLeadCreationMandatory testcase started
+[INFO ] 2026-05-04 13:38:09.297 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-05-04 13:38:09.332 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-05-04 13:38:13.292 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-05-04 13:38:13.331 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-05-04 13:38:20.046 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-05-04 13:38:20.085 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-05-04 13:38:24.255 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-05-04 13:38:24.278 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
+[INFO ] 2026-05-04 13:38:29.891 [main] VerifyLeadTestScript - vt003VerifyLeadCreationInvalidData testcase started
+[INFO ] 2026-05-04 13:38:31.428 [main] WebUtils -  //input[@id='submitButton']element is displayed
+[INFO ] 2026-05-04 13:38:31.455 [main] WebUtils -  //input[@id='submitButton']element is enabled
+[INFO ] 2026-05-04 13:38:35.354 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is displayed
+[INFO ] 2026-05-04 13:38:35.393 [main] WebUtils -  //a[@href='index.php?module=Leads&action=index']element is enabled
+[INFO ] 2026-05-04 13:38:42.184 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is displayed
+[INFO ] 2026-05-04 13:38:42.210 [main] WebUtils -  //img[@src='themes/softed/images/btnL3Add.gif']element is enabled
+[INFO ] 2026-05-04 13:38:46.740 [main] WebUtils -  //input[@class='crmButton small save']element is displayed
+[INFO ] 2026-05-04 13:38:46.768 [main] WebUtils -  //input[@class='crmButton small save']element is enabled
